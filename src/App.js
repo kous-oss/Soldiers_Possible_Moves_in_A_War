@@ -295,7 +295,7 @@ export default function App() {
       <h1>
         {" "}
         You Selected {selectedSolider || "Nothing"}{" "}
-        <img src={getImage()} alt={selectedSolider} />{" "}
+        <img src={getImage()} alt={''} />{" "}
       </h1>
       <div className="soliders">
         <button
