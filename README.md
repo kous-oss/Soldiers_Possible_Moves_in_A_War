@@ -7,4 +7,4 @@ Don't know how to play chess. No Worries. Open with sandbox for understanding mo
 Clicking on Bishop, Rook , Knight, King, Queen, Soldier will understand how they move.
 
 Technologies used : ReactJS.
-For Styling: CSS
+For Styling: CSS.
